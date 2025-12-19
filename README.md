@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yogananda25
 - 👀 I’m interested in python projects,computer vision,opencv,data analysis.
-- 🌱 I’m currently learning big query time series data analysis
+-  Working on mobile application development
 - 📫 How to reach me at gyogananda2004@outlook.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: When You Look at Stars, You’re Looking at the Past
